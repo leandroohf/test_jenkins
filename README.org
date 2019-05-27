@@ -1,0 +1,15 @@
+
+* Jenkins
+
+  * Learn how to use Jenkins for deployment
+  * Evaluate the benefits 
+
+
+
+* Run the first deployment
+
+  Using bash messages (echo)
+
+
+  
+* Simulation one failure
